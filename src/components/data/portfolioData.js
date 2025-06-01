@@ -16,16 +16,15 @@
  * @type {PortafolioData[]}
  */
 export const portafolioData = [
-	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
-		skills: ['React', 'StyledComponents'],
-		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
-		anim: 'fade-right',
-	},
+  {
+    imgSrc: '/img/projects/cloud-architecture.jpg',
+    title: 'Cloud Architecture Solutions',
+    skills: ['Azure', 'Kubernetes', 'Docker'],
+    descripcion: 'Designed and implemented scalable cloud infrastructure using Azure services, including AKS, Container Apps, and Azure Functions.',
+    demoURL: 'https://github.com/arnabdey73/cloud-projects',
+    repoURL: 'https://github.com/arnabdey73/cloud-projects',
+    anim: 'fade-right',
+  },
 	{
 		imgSrc: 'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/299377097/original/7eb7dcebe244fcf5ad75d92b0969fc116946bd57/create-professional-amd-responsive-wordpress-website.jpg',
 		title: 'E-commerce',
